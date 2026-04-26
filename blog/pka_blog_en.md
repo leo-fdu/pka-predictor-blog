@@ -1,7 +1,5 @@
 # 🧪 Small-scale pKa Prediction Benchmark (GNN vs Fingerprint vs FG Baseline)
 
-## 🇺🇸 English Version
-
 ### 📌 Introduction
 
 In this project, I used a publicly available pKa dataset, which contained **3109 valid entries after cleaning**, to run a small benchmark across several model types.

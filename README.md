@@ -2,7 +2,7 @@
 
 ## 📊 Results Overview
 
-![Best MAE](figures/best_mae_plot.png)
+![Best MAE](figures/output.png)
 
 ## 📚 Blog
 
